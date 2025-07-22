@@ -1,0 +1,14 @@
+c:\Users\Kenil\Documents\Prema\CodePractice\FizzBuzzApp\bin\Debug\net9.0\FizzBuzzApp.exe
+c:\Users\Kenil\Documents\Prema\CodePractice\FizzBuzzApp\bin\Debug\net9.0\FizzBuzzApp.deps.json
+c:\Users\Kenil\Documents\Prema\CodePractice\FizzBuzzApp\bin\Debug\net9.0\FizzBuzzApp.runtimeconfig.json
+c:\Users\Kenil\Documents\Prema\CodePractice\FizzBuzzApp\bin\Debug\net9.0\FizzBuzzApp.dll
+c:\Users\Kenil\Documents\Prema\CodePractice\FizzBuzzApp\bin\Debug\net9.0\FizzBuzzApp.pdb
+c:\Users\Kenil\Documents\Prema\CodePractice\FizzBuzzApp\obj\Debug\net9.0\FizzBuzzApp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Kenil\Documents\Prema\CodePractice\FizzBuzzApp\obj\Debug\net9.0\FizzBuzzApp.AssemblyInfoInputs.cache
+c:\Users\Kenil\Documents\Prema\CodePractice\FizzBuzzApp\obj\Debug\net9.0\FizzBuzzApp.AssemblyInfo.cs
+c:\Users\Kenil\Documents\Prema\CodePractice\FizzBuzzApp\obj\Debug\net9.0\FizzBuzzApp.csproj.CoreCompileInputs.cache
+c:\Users\Kenil\Documents\Prema\CodePractice\FizzBuzzApp\obj\Debug\net9.0\FizzBuzzApp.dll
+c:\Users\Kenil\Documents\Prema\CodePractice\FizzBuzzApp\obj\Debug\net9.0\refint\FizzBuzzApp.dll
+c:\Users\Kenil\Documents\Prema\CodePractice\FizzBuzzApp\obj\Debug\net9.0\FizzBuzzApp.pdb
+c:\Users\Kenil\Documents\Prema\CodePractice\FizzBuzzApp\obj\Debug\net9.0\FizzBuzzApp.genruntimeconfig.cache
+c:\Users\Kenil\Documents\Prema\CodePractice\FizzBuzzApp\obj\Debug\net9.0\ref\FizzBuzzApp.dll
